@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\PyProjects\\emotion-recognition-neural-networks-master\\data\\em_music_model"
+all_model_checkpoint_paths: "F:\\PyProjects\\emotion-recognition-neural-networks-master\\data\\em_music_model"
